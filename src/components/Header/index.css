@@ -1,0 +1,16 @@
+.nav-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+}
+
+.nav-content {
+  display: flex;
+}
+
+.nav-link {
+  list-style-type: none;
+  padding: 35px;
+}
